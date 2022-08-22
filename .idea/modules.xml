@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fast/Fast.iml" filepath="$PROJECT_DIR$/Fast/Fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fast-Jdbc.iml" filepath="$PROJECT_DIR$/.idea/Fast-Jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fast-spring-boot-starter/Fast-spring-boot-starter.iml" filepath="$PROJECT_DIR$/Fast-spring-boot-starter/Fast-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
